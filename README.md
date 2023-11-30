@@ -1,4 +1,4 @@
- Hello my name is Justin, thank you for visiting my README. 
+ Hello my name is Justin, thank you for visiting my profile. 
  Here are some interesting facts about me, I’m well versed in HTML/CSS/Javascript, I'm a blue belt in Brazilian Jiu Jitsu, and I love Orangutans. 
  I have extensive experience in Responive Web Design and Software Engineering. 
  Also feel free to reach out to me on LinkedIn.  
