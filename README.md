@@ -4,4 +4,4 @@
 
 Some interesting facts about me: I'm a blue belt in Brazilian Jiu Jitsu, I love Orangutans, and I'm an avid Harry Potter fan.
 
-I hope you have a great day!
+Hope you have a great day!
