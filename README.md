@@ -8,3 +8,5 @@
 Some interesting facts about me: I'm a blue belt in Brazilian Jiu Jitsu, I love Orangutans, and I'm a huge Harry Potter fan.
 
 *I hope you have a great day!*
+
+If you find anything interesting here feel free to reach out to me :) 
