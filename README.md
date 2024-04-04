@@ -1,4 +1,6 @@
  Hello my name is Justin, thank you for visiting my profile.
+
+ If you see anything interesting here feel free to reach out to me :) 
  
  *My Portfolio Site* https://justinbilleci.netlify.app/
  
@@ -9,4 +11,3 @@ Some interesting facts about me: I'm a blue belt in Brazilian Jiu Jitsu, I love 
 
 *I hope you have a great day!*
 
-If you find anything interesting here feel free to reach out to me :) 
