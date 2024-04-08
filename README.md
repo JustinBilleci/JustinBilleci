@@ -1,4 +1,4 @@
- Hello my name is Justin, thank you for visiting my profile.
+ Hello my name is Justin.
 
  If you see anything interesting here feel free to reach out to me :) 
  
