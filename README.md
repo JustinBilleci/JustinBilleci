@@ -1,4 +1,4 @@
- Hello my name is Justin.
+ Hi, thank you for visiting my profile!
 
  *Portfolio* https://justinbilleci.netlify.app/
  
