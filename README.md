@@ -1,4 +1,4 @@
- Hi, thank you for visiting my profile!
+ Hi, thanks for visiting my profile!
 
  *Portfolio Website* https://justinbilleci.netlify.app/
  
