@@ -8,4 +8,4 @@
 
 Some interesting facts about me: I'm a blue belt in Brazilian Jiu Jitsu, I love to hike, and I'm a big fan of Orangutans. 
 
-*I hope you have a great day!*
+*I hope you have a wonderful day!*
