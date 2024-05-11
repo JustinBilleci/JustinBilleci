@@ -11,4 +11,4 @@ LinkedIn: www.linkedin.com/in/justinbilleci
 
 Some interesting facts about me: I'm a blue belt in Brazilian Jiu Jitsu, I love to hike, and I'm a big fan of Orangutans. 
 
-*I hope you have a wonderful day!*
+*Have a wonderful day!*
