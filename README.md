@@ -2,7 +2,7 @@
 
 *Portfolio* https://justinbilleci.netlify.app/
  
-| React.js | TailwindCSS | Node.js | Express.js | Git | Deployment & Hosting | HTML | CSS | JavaScript |
+| React.js | TailwindCSS | Node.js | Express.js | Git | Responsive Web Design | Deployment & Hosting | HTML | CSS | JavaScript |
 
 *Contact Information,*                                                                                                                                                  
 Email: justinbilleci15@gmail.com                                                                                                                                       
