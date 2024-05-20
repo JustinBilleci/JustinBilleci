@@ -1,4 +1,4 @@
-*Justin Anthony Billeci*
+*Justin Billeci*
 
 *Portfolio* https://justinbilleci.netlify.app/
  
