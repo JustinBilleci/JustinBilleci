@@ -4,7 +4,9 @@
  
 I am proficient in HTML, CSS, and JavaScript. Utilizing frameworks such as React.js, TailwindCSS, Node.js, Express.js, and much more. 
 
-Feel free to reach out to me                                                                                                                                                                               
+Feel free to reach out to me      
+
+
 *Contact Information*:                                                                                                                                                  
 Email: justinbilleci15@gmail.com                                                                                                                                       
 Cell Phone: (925) 759-7068                                                                                                                                             
