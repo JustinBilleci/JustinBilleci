@@ -1,10 +1,10 @@
 *Justin Billeci*
 
-*Portfolio* https://justinbilleci.netlify.app/
+*Portfolio Site* https://justinbilleci.netlify.app/
  
 I am proficient in HTML, CSS, and JavaScript. Utilizing frameworks such as React.js, TailwindCSS, Node.js, and more. 
 
-Feel free to reach out to me      
+Feel free to reach out to me!      
 
 
 *Contact Info*:                                                                                                                                                  
