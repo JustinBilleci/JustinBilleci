@@ -1,5 +1,5 @@
-*Justin Billeci*
-Web Developer
+Justin Billeci*
+Web Developer*
 
 *Portfolio Site* https://justinbilleci.netlify.app/
  
