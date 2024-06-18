@@ -1,8 +1,8 @@
 Justin Billeci                                                                                                                                                                               
-*Web Developer*                                                                                                                                                                              
+*Web Developer*                                                                                                                                                                               
 *Portfolio Site* https://justinbilleci.netlify.app/
  
-I am proficient in HTML, CSS, and JavaScript. Utilizing frameworks such as React.js, TailwindCSS, Node.js, and more.
+I am proficient in HTML, CSS, and JavaScript. Utilizing frameworks such as React.js, TailwindCSS, Bootstrap, Node.js, and more.
 
 
 *Contact Info*:                                                                                                                                                  
