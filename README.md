@@ -1,4 +1,4 @@
-Justin Billeci  
+Justin A. Billeci  
 *Front-End Developer*      
 
 *Portfolio* https://justinbilleci.netlify.app/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
