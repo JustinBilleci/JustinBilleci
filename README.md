@@ -1,4 +1,4 @@
-Justin A. Billeci  
+Justin Billeci  
 *Full Stack Developer*                                   
 
 *Portfolio* https://justinbilleci.netlify.app/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
