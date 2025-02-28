@@ -1,4 +1,5 @@
 Justin Billeci  
+*Software Engineer*
                                    
 
 *Portfolio* https://justinbilleci.netlify.app/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
