@@ -1,5 +1,5 @@
 Justin Billeci  
-*Software Engineer*
+*Full Stack Software Engineer*
                                                                                                                                                                                                                                                                                                                                    
                                                                                                                                                                                                                                                                                                                                         
 *Contact Information*:
