@@ -2,12 +2,12 @@ Justin Billeci
 *Full Stack Software Engineer*
 
 
-*Portfolio*: 
+*Portfolio Website*: 
 https://justinbilleci.netlify.app/                                                                                                                                                                                                                                                                                                                                  
                                                                                                                                                                                                                                                                                                                                         
 *Contact Information*:
                                                                                                                                                                                                                                                                             
-Email: justinbilleci15@gmail.com                                                                                                                                         
+Email Address: justinbilleci15@gmail.com                                                                                                                                         
 LinkedIn: www.linkedin.com/in/justinbilleci                                                                                                                            
 
-Have a great day!
+Have a wonderful day!
