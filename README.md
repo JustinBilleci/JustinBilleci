@@ -4,7 +4,7 @@ Justin Billeci
 | Next.js | Node.js | React.js | Sveltekit | Express.js | PostgreSQL | JavaScript | Python | TailwindCSS | Responsive Web Design |
 
 
-*Portfolio Website*: 
+*Portfolio*: 
 https://justinbilleci.netlify.app/                                                                                                                                                                                                                                                                                                                                  
                                                                                                                                                                                                                                                                                                                                         
 *Contact Information*:
