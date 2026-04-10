@@ -1,5 +1,5 @@
 Justin Billeci  
-*Full Stack Software Engineer*
+*Full Stack Developer*
 
 Project Management | Next.js | Node.js | React.js | Angular | Sveltekit | Express.js | PostgreSQL | JavaScript | Python | TailwindCSS | Responsive Web Design |
 
