@@ -1,15 +1,9 @@
-Justin Billeci  
-*Software Engineer*
+## Hi, I'm Justin Billeci  👋
 
-| Project Management | Next.js | Node.js | React.js | Sveltekit | Express.js | PostgreSQL | JavaScript | Python | TailwindCSS | Responsive Web Design |
+JavaScript developer with 2+ years of professional experience building web applications. I enjoy creating clean, maintainable software and continuously learning new technologies.
 
-
-*Portfolio*: 
-https://justinbilleci.netlify.app/                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                        
-*Contact Information*:
-                                                                                                                                                                                                                                                                            
-Email Address: justinbilleci15@gmail.com                                                                                                                                         
-LinkedIn: www.linkedin.com/in/justinbilleci                                                                                                                            
-
-Have a wonderful day!
+- 💻 JavaScript | TypeScript | React | Node.js
+- 🌱 Currently learning: [technology]
+- 🚀 Interested in web development, APIs, and automation
+- 📫 Reach me on LinkedIn: www.linkedin.com/in/justinbilleci
+- 📧 Email me here: justinbilleci15@gmail.com 
