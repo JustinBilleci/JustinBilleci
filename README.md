@@ -1,6 +1,6 @@
 ## Hello, I'm Justin Billeci  👋
 
-I'm a JavaScript developer with 2+ years of professional development experience building web applications, maintaining databases, and reviewing code. I enjoy implementing clean, maintainable code and continuously learning new technologies.
+I'm a JavaScript developer with 2+ years of professional experience building web applications, maintaining databases, and reviewing code. I enjoy implementing clean, maintainable code and continuously learning new technologies.
 
 - 💻 JavaScript | TypeScript | React | Svelte | Node.js | Next.js | Express.js
 - 🌱 Currently learning: AWS | Google Cloud
